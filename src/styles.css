@@ -1,0 +1,14 @@
+*{
+    background-color: #21232a;
+    color: #fffc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3rem;
+    margin: 0;
+    margin: 15px;
+    padding: 15px;
+}
+
+Button{
+    border-color: #fffc;
+    border-radius: 14px;
+}
